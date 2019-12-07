@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DroidPlayer</string>
+    <string name="app_preferences">droidplayer_preferences</string>
+
+    <string name="bottom_nav_home_button_title">Início</string>
+    <string name="bottom_nav_devices_button_title">Dispositivos</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+
+    <string name="request_permissions_again">Algumas permissões são essenciais para o funcionamento do aplicativo, por favor, permita o seu uso</string>
+    <string name="essential_permissions_not_granted">Permissões essenciais para o funcionamento do aplicativo não foram concedidas, o aplicativo será encerrado</string>
+
+    <string name="network_service_notification_channel_id">NetworkServiceChannel</string>
+    <string name="network_service_notification_channel_name">Serviço de rede do DroidPlayer</string>
+    <string name="network_service_notification_channel_description">Canal de notificação para o serviço de rede do DroidPlayer</string>
+    <string name="network_service_notification_title">DroidPlayer</string>
+    <string name="network_service_notification_text">O serviço de rede está em execução</string>
+
+    <string name="msg_wifip2p_support">O WiFi Direct não é suportado por este dispositivo.\n O app terá recursos desabilitados</string>
+    <string name="msg_wifip2p_disabled">O WiFi Direct não está disponível.\n Deseja habilitar?</string>
+    <string name="msg_wifip2p_unavailable">O WiFi Direct não está disponível.\n O app terá recursos desabilitados</string>
+    <string name="msg_wifip2p_connect">Deseja se conectar com o dispositivo?</string>
+    <string name="msg_wifip2p_connect_sucess">Conectado ao dispositivo com sucesso</string>
+    <string name="msg_wifip2p_connect_fail">Falha durante a conexão com dispositivo</string>
+
+    <string name="music_title">Nenhuma música</string>
+    <string name="music_artist">Nenhum artista</string>
+
+    <string name="previous_button_description">Anterior</string>
+    <string name="next_button_description">Próxima</string>
+    <string name="play_button_description">Executar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
